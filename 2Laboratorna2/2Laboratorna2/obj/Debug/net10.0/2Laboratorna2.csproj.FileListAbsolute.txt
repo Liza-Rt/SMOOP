@@ -1,0 +1,15 @@
+D:\SМООР lab(2)\2Laboratorna2\2Laboratorna2\bin\Debug\net10.0\2Laboratorna2.exe
+D:\SМООР lab(2)\2Laboratorna2\2Laboratorna2\bin\Debug\net10.0\2Laboratorna2.deps.json
+D:\SМООР lab(2)\2Laboratorna2\2Laboratorna2\bin\Debug\net10.0\2Laboratorna2.runtimeconfig.json
+D:\SМООР lab(2)\2Laboratorna2\2Laboratorna2\bin\Debug\net10.0\2Laboratorna2.dll
+D:\SМООР lab(2)\2Laboratorna2\2Laboratorna2\bin\Debug\net10.0\2Laboratorna2.pdb
+D:\SМООР lab(2)\2Laboratorna2\2Laboratorna2\obj\Debug\net10.0\2Laboratorna2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SМООР lab(2)\2Laboratorna2\2Laboratorna2\obj\Debug\net10.0\2Laboratorna2.AssemblyInfoInputs.cache
+D:\SМООР lab(2)\2Laboratorna2\2Laboratorna2\obj\Debug\net10.0\2Laboratorna2.AssemblyInfo.cs
+D:\SМООР lab(2)\2Laboratorna2\2Laboratorna2\obj\Debug\net10.0\2Laboratorna2.csproj.CoreCompileInputs.cache
+D:\SМООР lab(2)\2Laboratorna2\2Laboratorna2\obj\Debug\net10.0\2Laboratorna2.dll
+D:\SМООР lab(2)\2Laboratorna2\2Laboratorna2\obj\Debug\net10.0\refint\2Laboratorna2.dll
+D:\SМООР lab(2)\2Laboratorna2\2Laboratorna2\obj\Debug\net10.0\2Laboratorna2.pdb
+D:\SМООР lab(2)\2Laboratorna2\2Laboratorna2\obj\Debug\net10.0\2Laboratorna2.genruntimeconfig.cache
+D:\SМООР lab(2)\2Laboratorna2\2Laboratorna2\obj\Debug\net10.0\ref\2Laboratorna2.dll
+D:\SМООР lab(2)\2Laboratorna2\2Laboratorna2\obj\Debug\net10.0\2Laborat.1E8E2EAF.Up2Date
