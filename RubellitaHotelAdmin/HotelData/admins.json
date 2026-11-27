@@ -1,0 +1,23 @@
+[
+  {
+    "Login": "admin_olena",
+    "FullName": "Олена Коваленко",
+    "AccessCode": "1111",
+    "Role": "Старший адміністратор",
+    "DisplayTitle": "Олена Коваленко (admin_olena)"
+  },
+  {
+    "Login": "admin_taras",
+    "FullName": "Тарас Шевчук",
+    "AccessCode": "2222",
+    "Role": "Адміністратор зміни",
+    "DisplayTitle": "Тарас Шевчук (admin_taras)"
+  },
+  {
+    "Login": "admin_irina",
+    "FullName": "Ірина Мельник",
+    "AccessCode": "3333",
+    "Role": "Адміністратор",
+    "DisplayTitle": "Ірина Мельник (admin_irina)"
+  }
+]

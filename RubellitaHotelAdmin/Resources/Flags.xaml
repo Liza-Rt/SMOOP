@@ -1,0 +1,155 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Власні векторні прапори країн (замість емодзі-прапорів, які Windows не відображає). Полотно 60x40. -->
+    <DrawingImage x:Key="Flag_UA">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 H60 V40 H0 Z">
+                <GeometryDrawing Brush="#0057B7" Geometry="M0,0 H60 V20.0 H0 Z"/>
+                <GeometryDrawing Brush="#FFD700" Geometry="M0,20.0 H60 V40.0 H0 Z"/>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Flag_PL">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 H60 V40 H0 Z">
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M0,0 H60 V20.0 H0 Z"/>
+                <GeometryDrawing Brush="#DC143C" Geometry="M0,20.0 H60 V40.0 H0 Z"/>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Flag_DE">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 H60 V40 H0 Z">
+                <GeometryDrawing Brush="#000000" Geometry="M0,0 H60 V13.333 H0 Z"/>
+                <GeometryDrawing Brush="#DD0000" Geometry="M0,13.333 H60 V26.666 H0 Z"/>
+                <GeometryDrawing Brush="#FFCE00" Geometry="M0,26.667 H60 V40.0 H0 Z"/>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Flag_CZ">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 H60 V40 H0 Z">
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M0,0 H60 V20.0 H0 Z"/>
+                <GeometryDrawing Brush="#D7141A" Geometry="M0,20.0 H60 V40.0 H0 Z"/>
+                <GeometryDrawing Brush="#11457E" Geometry="M0,0 L30,20 L0,40 Z"/>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Flag_FR">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 H60 V40 H0 Z">
+                <GeometryDrawing Brush="#0055A4" Geometry="M0,0 H20.0 V40 H0 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M20.0,0 H40.0 V40 H20.0 Z"/>
+                <GeometryDrawing Brush="#EF4135" Geometry="M40.0,0 H60.0 V40 H40.0 Z"/>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Flag_IT">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 H60 V40 H0 Z">
+                <GeometryDrawing Brush="#009246" Geometry="M0,0 H20.0 V40 H0 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M20.0,0 H40.0 V40 H20.0 Z"/>
+                <GeometryDrawing Brush="#CE2B37" Geometry="M40.0,0 H60.0 V40 H40.0 Z"/>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Flag_ES">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 H60 V40 H0 Z">
+                <GeometryDrawing Brush="#AA151B" Geometry="M0,0 H60 V10.0 H0 Z"/>
+                <GeometryDrawing Brush="#F1BF00" Geometry="M0,10.0 H60 V30.0 H0 Z"/>
+                <GeometryDrawing Brush="#AA151B" Geometry="M0,30.0 H60 V40.0 H0 Z"/>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Flag_AT">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 H60 V40 H0 Z">
+                <GeometryDrawing Brush="#ED2939" Geometry="M0,0 H60 V13.333 H0 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M0,13.333 H60 V26.666 H0 Z"/>
+                <GeometryDrawing Brush="#ED2939" Geometry="M0,26.667 H60 V40.0 H0 Z"/>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Flag_NL">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 H60 V40 H0 Z">
+                <GeometryDrawing Brush="#AE1C28" Geometry="M0,0 H60 V13.333 H0 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M0,13.333 H60 V26.666 H0 Z"/>
+                <GeometryDrawing Brush="#21468B" Geometry="M0,26.667 H60 V40.0 H0 Z"/>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Flag_RO">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 H60 V40 H0 Z">
+                <GeometryDrawing Brush="#002B7F" Geometry="M0,0 H20.0 V40 H0 Z"/>
+                <GeometryDrawing Brush="#FCD116" Geometry="M20.0,0 H40.0 V40 H20.0 Z"/>
+                <GeometryDrawing Brush="#CE1126" Geometry="M40.0,0 H60.0 V40 H40.0 Z"/>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Flag_CA">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 H60 V40 H0 Z">
+                <GeometryDrawing Brush="#D80621" Geometry="M0,0 H15.0 V40 H0 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M15.0,0 H45.0 V40 H15.0 Z"/>
+                <GeometryDrawing Brush="#D80621" Geometry="M45.0,0 H60.0 V40 H45.0 Z"/>
+                <GeometryDrawing Brush="#D80621" Geometry="M30,6 L33,12 L36,10.5 L35,17 L40,14.5 L38.5,19.5 L42,21 L36.5,25 L37.5,28 L31,27 L31,34 L29,34 L29,27 L22.5,28 L23.5,25 L18,21 L21.5,19.5 L20,14.5 L25,17 L24,10.5 L27,12 Z"/>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Flag_US">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 H60 V40 H0 Z">
+                <GeometryDrawing Brush="#B22234" Geometry="M0,0.0 H60 V3.077 H0 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M0,3.077 H60 V6.154 H0 Z"/>
+                <GeometryDrawing Brush="#B22234" Geometry="M0,6.154 H60 V9.231 H0 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M0,9.231 H60 V12.308 H0 Z"/>
+                <GeometryDrawing Brush="#B22234" Geometry="M0,12.308 H60 V15.385 H0 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M0,15.385 H60 V18.462 H0 Z"/>
+                <GeometryDrawing Brush="#B22234" Geometry="M0,18.462 H60 V21.539 H0 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M0,21.538 H60 V24.615000000000002 H0 Z"/>
+                <GeometryDrawing Brush="#B22234" Geometry="M0,24.615 H60 V27.692 H0 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M0,27.692 H60 V30.769 H0 Z"/>
+                <GeometryDrawing Brush="#B22234" Geometry="M0,30.769 H60 V33.846 H0 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M0,33.846 H60 V36.922999999999995 H0 Z"/>
+                <GeometryDrawing Brush="#B22234" Geometry="M0,36.923 H60 V40.0 H0 Z"/>
+                <GeometryDrawing Brush="#3C3B6E" Geometry="M0,0 H26 V21.538 H0 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M2.2,3.2 A1,1 0 1 1 4.2,3.2 A1,1 0 1 1 2.2,3.2 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M7.100000000000001,3.2 A1,1 0 1 1 9.100000000000001,3.2 A1,1 0 1 1 7.100000000000001,3.2 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M12.0,3.2 A1,1 0 1 1 14.0,3.2 A1,1 0 1 1 12.0,3.2 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M16.900000000000002,3.2 A1,1 0 1 1 18.900000000000002,3.2 A1,1 0 1 1 16.900000000000002,3.2 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M21.8,3.2 A1,1 0 1 1 23.8,3.2 A1,1 0 1 1 21.8,3.2 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M2.2,8.100000000000001 A1,1 0 1 1 4.2,8.100000000000001 A1,1 0 1 1 2.2,8.100000000000001 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M7.100000000000001,8.100000000000001 A1,1 0 1 1 9.100000000000001,8.100000000000001 A1,1 0 1 1 7.100000000000001,8.100000000000001 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M12.0,8.100000000000001 A1,1 0 1 1 14.0,8.100000000000001 A1,1 0 1 1 12.0,8.100000000000001 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M16.900000000000002,8.100000000000001 A1,1 0 1 1 18.900000000000002,8.100000000000001 A1,1 0 1 1 16.900000000000002,8.100000000000001 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M21.8,8.100000000000001 A1,1 0 1 1 23.8,8.100000000000001 A1,1 0 1 1 21.8,8.100000000000001 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M2.2,13.0 A1,1 0 1 1 4.2,13.0 A1,1 0 1 1 2.2,13.0 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M7.100000000000001,13.0 A1,1 0 1 1 9.100000000000001,13.0 A1,1 0 1 1 7.100000000000001,13.0 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M12.0,13.0 A1,1 0 1 1 14.0,13.0 A1,1 0 1 1 12.0,13.0 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M16.900000000000002,13.0 A1,1 0 1 1 18.900000000000002,13.0 A1,1 0 1 1 16.900000000000002,13.0 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M21.8,13.0 A1,1 0 1 1 23.8,13.0 A1,1 0 1 1 21.8,13.0 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M2.2,17.900000000000002 A1,1 0 1 1 4.2,17.900000000000002 A1,1 0 1 1 2.2,17.900000000000002 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M7.100000000000001,17.900000000000002 A1,1 0 1 1 9.100000000000001,17.900000000000002 A1,1 0 1 1 7.100000000000001,17.900000000000002 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M12.0,17.900000000000002 A1,1 0 1 1 14.0,17.900000000000002 A1,1 0 1 1 12.0,17.900000000000002 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M16.900000000000002,17.900000000000002 A1,1 0 1 1 18.900000000000002,17.900000000000002 A1,1 0 1 1 16.900000000000002,17.900000000000002 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M21.8,17.900000000000002 A1,1 0 1 1 23.8,17.900000000000002 A1,1 0 1 1 21.8,17.900000000000002 Z"/>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    <DrawingImage x:Key="Flag_GB">
+        <DrawingImage.Drawing>
+            <DrawingGroup ClipGeometry="M0,0 H60 V40 H0 Z">
+                <GeometryDrawing Brush="#012169" Geometry="M0,0 H60 V40 H0 Z"/>
+                <GeometryDrawing Geometry="M0,0 L60,40 M60,0 L0,40"><GeometryDrawing.Pen><Pen Brush="#FFFFFF" Thickness="8"/></GeometryDrawing.Pen></GeometryDrawing>
+                <GeometryDrawing Geometry="M0,0 L60,40 M60,0 L0,40"><GeometryDrawing.Pen><Pen Brush="#C8102E" Thickness="2.6"/></GeometryDrawing.Pen></GeometryDrawing>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M0,15 H60 V25 H0 Z"/>
+                <GeometryDrawing Brush="#FFFFFF" Geometry="M25,0 H35 V40 H25 Z"/>
+                <GeometryDrawing Brush="#C8102E" Geometry="M0,17 H60 V23 H0 Z"/>
+                <GeometryDrawing Brush="#C8102E" Geometry="M27,0 H33 V40 H27 Z"/>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+</ResourceDictionary>
